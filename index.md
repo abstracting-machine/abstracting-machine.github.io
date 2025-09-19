@@ -1,19 +1,19 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Abstracting Machine
 ---
-# Reasoning Machine
+# Abstracting Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Abstracting-Machine (meta)](https://abstracting-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Abstracting-Machine (openai)](https://abstracting-machine.github.io/openai/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Abstracting-Machine (fireworks)](https://abstracting-machine.github.io/fireworks/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Abstracting-Machine (depsek)](https://abstracting-machine.github.io/depsek/)
 

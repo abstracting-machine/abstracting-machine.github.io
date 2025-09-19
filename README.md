@@ -1,2 +1,2 @@
-### Reasoning Machine
-A Machine that reasons.
+### Abstracting Machine
+A Machine that does abstractions.
