@@ -13,6 +13,8 @@ title: Abstracting Machine
 
 [Abstracting-Machine (openaic)](https://abstracting-machine.github.io/openaic/)
 
+[Abstracting-Machine (grok)](https://abstracting-machine.github.io/grok/)
+
 [Abstracting-Machine (gemini)](https://abstracting-machine.github.io/gemini/)
 
 [Abstracting-Machine (qrog)](https://abstracting-machine.github.io/qrog/)
