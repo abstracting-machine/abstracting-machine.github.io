@@ -9,11 +9,15 @@ title: Abstracting Machine
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Abstracting-Machine (meta)](https://abstracting-machine.github.io/meta/)
+[Abstracting-Machine (oaio)](https://abstracting-machine.github.io/oaio/)
 
-[Abstracting-Machine (openai)](https://abstracting-machine.github.io/openai/)
+[Abstracting-Machine (openaic)](https://abstracting-machine.github.io/openaic/)
 
-[Abstracting-Machine (fireworks)](https://abstracting-machine.github.io/fireworks/)
+[Abstracting-Machine (gemini)](https://abstracting-machine.github.io/gemini/)
 
-[Abstracting-Machine (depsek)](https://abstracting-machine.github.io/depsek/)
+[Abstracting-Machine (qrog)](https://abstracting-machine.github.io/qrog/)
+
+[Abstracting-Machine (depsekc)](https://abstracting-machine.github.io/depsekc/)
+
+[Abstracting-Machine (depsekr)](https://abstracting-machine.github.io/depsekr/)
 
