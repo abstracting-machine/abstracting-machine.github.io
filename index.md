@@ -11,6 +11,10 @@ title: Abstracting Machine
 
 [Abstracting-Machine (oaio)](https://abstracting-machine.github.io/oaio/)
 
+[Abstracting-Machine (metai)](https://abstracting-machine.github.io/metai/)
+
+[Abstracting-Machine (fireworksr)](https://abstracting-machine.github.io/fireworksr/)
+
 [Abstracting-Machine (openaic)](https://abstracting-machine.github.io/openaic/)
 
 [Abstracting-Machine (grok)](https://abstracting-machine.github.io/grok/)
